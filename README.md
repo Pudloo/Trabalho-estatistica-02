@@ -1,6 +1,6 @@
 # Trabalho II - Probabilidade e Estatística
 
-Alunos: (colocar os nomes)
+Aluno: Vinicius Pudlo Alves da Silva
 
 Funções em Python para intervalos de confiança, testes de hipóteses, erro tipo II (β) e tamanho de amostra.
 Não tem menu nem interface: as funções são chamadas direto no código.
